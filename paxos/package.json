@@ -1,0 +1,15 @@
+{
+  "name": "paxos",
+  "version": "1.0.0",
+  "description": "Paxos Interview Web App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeff Barg",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}

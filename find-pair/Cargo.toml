@@ -1,0 +1,9 @@
+[package]
+name = "find-pair"
+version = "0.1.0"
+authors = ["Jeff Barg <jeffbarg94@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.5.5"
+rayon = "1.0.2"
